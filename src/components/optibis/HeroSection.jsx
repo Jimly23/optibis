@@ -32,11 +32,8 @@ export default function HeroSection() {
               <span className="text-xs font-bold text-magenta tracking-wide">DIGITAL SOLUTION PARTNER</span>
             </div>
 
-            <h1 className="text-3xl font-semibold leading-[1.1] tracking-[-0.04em] text-navy sm:text-5xl lg:text-[3.6rem] xl:text-[4rem]">
-              {tr("Satu Partner untuk")} <span className="text-magenta">{tr("Branding")}</span>,{" "}
-              <span className="text-amethyst">{tr("Website")}</span>, {tr("dan")} <br className="hidden sm:block" />
-              <span className="text-magenta">{tr("Pertumbuhan Digital")}</span> <br className="hidden sm:block" />
-              {tr("Bisnis Anda")}
+            <h1 className="text-2xl font-semibold leading-[1.1] tracking-[-0.04em] text-navy sm:text-5xl lg:text-5xl">
+              Satu Partner untuk Branding, <span className="text-magenta">Website</span> dan Pertumbuhan Digital <span className="text-violet-800">Bisnis Anda</span>
             </h1>
 
             <p className="mt-6 max-w-lg text-sm leading-relaxed text-navy-300 sm:text-base lg:text-[1.05rem]">
